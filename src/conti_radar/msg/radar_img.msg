@@ -1,0 +1,11 @@
+int32 id
+float32[] range
+float32[] azimuth
+float32[] x_dist
+float32[] y_dist
+float32[] VrelRad
+float32[] RCS
+float32[] rangevar
+float32[] vrelradvar
+float32[] azimuthvar
+float32[] SNR

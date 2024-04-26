@@ -1,0 +1,2 @@
+conti_radar
+-DCATKIN_DEVEL_PREFIX=/home/orin/radar_ros/devel -DCMAKE_INSTALL_PREFIX=/home/orin/radar_ros/install -G Unix Makefiles
